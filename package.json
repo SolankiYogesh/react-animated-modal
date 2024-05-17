@@ -19,7 +19,7 @@
     "author": "Aditya Singh",
     "license": "ISC",
     "dependencies": {
-        "react-transition-group": "^2.4.0"
+        "react-transition-group": "^4.4.5"
     },
     "devDependencies": {
         "babel-cli": "^6.24.1",
